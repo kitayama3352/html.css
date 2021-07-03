@@ -1,14 +1,11 @@
-p {
+#word-red {
   color: red;
 }
 
-p1{
-  color: blue;
-
+.green-word {
+  color: green;
 }
 
-h1{
-  color:palevioletred;
-
-
+h1 {
+  color: palevioletred;
 }
